@@ -3,5 +3,8 @@ a simple python code for Encrypting and decrypting pictures pixels
 
 Some output result of the code are given below
 
+<img src="babar_encrypted.png" alt="Decryption">
+
+
 
 <img src="babar.jpeg" alt="Decryption">
